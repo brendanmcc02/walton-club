@@ -1,0 +1,645 @@
+Name,Year,Rating
+Boyhood,2014,4.5
+Jurassic Park,1993,3.5
+The Shawshank Redemption,1994,4.5
+District 9,2009,4.0
+Toy Story,1995,4.5
+The Hobbit: The Desolation of Smaug,2013,3.5
+Harry Potter and the Deathly Hallows: Part 2,2011,4.5
+Titanic,1997,4.0
+Toy Story 2,1999,4.0
+The Lord of the Rings: The Fellowship of the Ring,2001,4.5
+Star Wars: Episode I – The Phantom Menace,1999,2.0
+Moneyball,2011,4.5
+First Man,2018,4.0
+Star Wars: Episode III – Revenge of the Sith,2005,3.5
+Looper,2012,4.0
+The Social Network,2010,4.5
+Inception,2010,4.5
+Prisoners,2013,4.0
+Booksmart,2019,4.0
+The Lego Movie,2014,4.0
+The King's Speech,2010,4.5
+127 Hours,2010,4.0
+The Revenant,2015,4.0
+The Lord of the Rings: The Return of the King,2003,4.5
+The Lord of the Rings: The Two Towers,2002,4.5
+Gladiator,2000,4.5
+Moonrise Kingdom,2012,4.0
+Black Panther,2018,4.0
+Captain America: The Winter Soldier,2014,4.0
+Blade Runner 2049,2017,4.5
+The Amazing Spider-Man 2,2014,2.0
+The Hunger Games: Catching Fire,2013,3.5
+The Hunger Games: Mockingjay – Part 1,2014,3.0
+The Hunger Games: Mockingjay – Part 2,2015,3.0
+Toy Story 4,2019,4.0
+War Dogs,2016,3.0
+Guardians of the Galaxy,2014,3.5
+Hacksaw Ridge,2016,4.0
+Spider-Man: Homecoming,2017,3.5
+The Grand Budapest Hotel,2014,4.0
+The Hobbit: The Battle of the Five Armies,2014,3.0
+Harry Potter and the Philosopher's Stone,2001,3.5
+Star Wars: The Force Awakens,2015,4.0
+Arrival,2016,4.5
+Birdman or (The Unexpected Virtue of Ignorance),2014,4.5
+Whiplash,2014,5.0
+Jojo Rabbit,2019,4.5
+The Royal Tenenbaums,2001,4.0
+Annihilation,2018,4.0
+Nightcrawler,2014,4.5
+John Wick,2014,3.5
+Zootopia,2016,4.0
+Batman v Superman: Dawn of Justice,2016,2.5
+8 Mile,2002,3.5
+Harry Potter and the Prisoner of Azkaban,2004,4.0
+Creed,2015,4.0
+Fantastic Beasts and Where to Find Them,2016,3.5
+Little Women,2019,4.5
+Sicario,2015,4.0
+Captain America: Civil War,2016,4.0
+Thor: Ragnarok,2017,3.5
+The Disaster Artist,2017,4.0
+Memories of Murder,2003,4.0
+Iron Man,2008,3.5
+Rogue One: A Star Wars Story,2016,3.5
+Napoleon Dynamite,2004,3.0
+La La Land,2016,5.0
+Baby Driver,2017,4.0
+Guardians of the Galaxy Vol. 2,2017,4.0
+Spider-Man 3,2007,3.0
+Avengers: Endgame,2019,4.0
+Fantastic Mr. Fox,2009,4.0
+Captain America: The First Avenger,2011,3.0
+The Dark Knight,2008,5.0
+Mission: Impossible – Fallout,2018,4.0
+Avatar,2009,4.0
+12 Angry Men,1957,4.5
+Dunkirk,2017,4.0
+"Three Billboards Outside Ebbing, Missouri",2017,4.5
+Get Out,2017,4.0
+The Favourite,2018,4.0
+"I, Daniel Blake",2016,4.0
+First Reformed,2017,4.0
+Creed II,2018,3.5
+Parasite,2019,4.5
+Arctic,2018,3.5
+Us,2019,3.5
+Badlands,1973,3.5
+Eighth Grade,2018,4.0
+Drive,2011,4.5
+The Lighthouse,2019,4.0
+The Incredible Hulk,2008,3.0
+The Empire Strikes Back,1980,4.0
+The Two Popes,2019,4.0
+The Avengers,2012,3.5
+1917,2019,4.5
+The Terminator,1984,3.5
+Knives Out,2019,4.0
+The Hobbit: An Unexpected Journey,2012,3.5
+Full Metal Jacket,1987,4.5
+Black Swan,2010,4.0
+The Amazing Spider-Man,2012,3.5
+The Chronicles of Narnia: The Voyage of the Dawn Treader,2010,2.5
+GoodFellas,1990,3.5
+Days of Heaven,1978,3.0
+What We Do in the Shadows,2014,4.0
+Sorry We Missed You,2019,4.0
+Venom,2018,2.0
+Justice League,2017,2.0
+Avengers: Age of Ultron,2015,3.0
+Thor: The Dark World,2013,2.0
+Doctor Strange,2016,3.0
+Grave of the Fireflies,1988,4.5
+Snowpiercer,2013,3.5
+Nausicaä of the Valley of the Wind,1984,4.0
+The Imitation Game,2014,3.5
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,3.5
+A Hidden Life,2019,4.0
+Kiki's Delivery Service,1989,3.5
+Forrest Gump,1994,4.0
+The Hurt Locker,2008,3.5
+The Death of Stalin,2017,3.5
+Zodiac,2007,4.0
+The Little Mermaid,1989,3.5
+Avengers: Infinity War,2018,3.5
+Cinderella,1950,3.5
+Beauty and the Beast,1991,4.0
+The Lion King,1994,4.0
+Lilo & Stitch,2002,3.5
+Hell or High Water,2016,3.5
+The Big Short,2015,4.0
+Ocean's Eleven,2001,4.0
+Ocean's Twelve,2004,3.0
+Spider-Man: Far From Home,2019,3.0
+Ocean's Thirteen,2007,2.5
+Bambi,1942,4.0
+The Jungle Book,1967,3.0
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,3.0
+The Adventures of Tintin,2011,3.0
+Ex Machina,2015,3.5
+Isle of Dogs,2018,3.5
+Children of Men,2006,3.5
+Insomnia,2002,3.5
+The Prestige,2006,4.0
+Zero Dark Thirty,2012,4.0
+Mulan,1998,3.5
+Star Wars,1977,3.5
+The Princess and the Frog,2009,3.5
+Moana,2016,3.5
+King Arthur: Legend of the Sword,2017,2.0
+The Sound of Music,1965,3.5
+Singin' in the Rain,1952,3.0
+Brooklyn,2015,4.5
+Batman,1989,2.5
+Batman Returns,1992,2.0
+Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn),2020,3.5
+The Wind Rises,2013,3.5
+Howl's Moving Castle,2004,3.5
+Porco Rosso,1992,3.5
+Spirited Away,2001,4.0
+Hot Fuzz,2007,3.5
+Harry Potter and the Chamber of Secrets,2002,3.0
+Star Wars: The Rise of Skywalker,2019,2.5
+The Farewell,2019,3.5
+Home Alone,1990,3.5
+Aquaman,2018,2.0
+Pacific Rim,2013,2.0
+The Perks of Being a Wallflower,2012,3.5
+Iron Man 2,2010,2.5
+Spotlight,2015,4.5
+A Bug's Life,1998,3.0
+"Monsters, Inc.",2001,3.5
+Incredibles 2,2018,4.0
+Cars,2006,3.5
+Ratatouille,2007,4.5
+Aladdin,1992,3.5
+Return of the Jedi,1983,3.5
+WALL·E,2008,4.0
+Up,2009,4.0
+Coco,2017,4.5
+Lawrence of Arabia,1962,5.0
+Toy Story 3,2010,4.0
+Inside Out,2015,4.5
+Your Name.,2016,3.5
+Kubo and the Two Strings,2016,2.5
+Chicken Run,2000,4.0
+Batman Begins,2005,4.5
+Harry Potter and the Half-Blood Prince,2009,3.5
+Lady Bird,2017,4.0
+The Dark Knight Rises,2012,4.5
+It's Such a Beautiful Day,2012,4.0
+Terminator 2: Judgment Day,1991,4.0
+Teenage Mutant Ninja Turtles,1990,3.5
+Ryan's Daughter,1970,3.5
+Star Wars: The Last Jedi,2017,4.5
+Pretty Woman,1990,2.5
+Minari,2020,4.0
+The Fall Guy,2024,3.5
+The Big Lebowski,1998,4.0
+Perfect Days,2023,2.0
+Roadrunner: A Film About Anthony Bourdain,2021,4.5
+Room,2015,2.0
+A Beautiful Mind,2001,2.0
+Amadeus,1984,2.0
+C'mon C'mon,2021,3.0
+A Separation,2011,2.5
+Civil War,2024,4.0
+The Worst Person in the World,2021,3.0
+(500) Days of Summer,2009,5.0
+Dune: Part Two,2024,5.0
+Midnight in Paris,2011,4.0
+One Flew Over the Cuckoo's Nest,1975,2.5
+Spider-Man: Across the Spider-Verse,2023,5.0
+The Holdovers,2023,5.0
+Spider-Man: Into the Spider-Verse,2018,5.0
+Past Lives,2023,5.0
+The Talented Mr. Ripley,1999,4.0
+The Iron Claw,2023,3.5
+The English Patient,1996,2.5
+The Batman,2022,4.0
+Joker,2019,4.5
+Dune,2021,4.5
+Five Nights at Freddy's,2023,1.0
+47 Meters Down,2017,1.0
+Eternals,2021,2.0
+Antlers,2021,2.0
+Tolkien,2019,2.0
+Thor,2011,2.0
+Star Wars: Episode II – Attack of the Clones,2002,2.0
+Fast & Furious Presents: Hobbs & Shaw,2019,2.0
+Jackie,2016,2.0
+Rebel Without a Cause,1955,2.0
+Killers of the Flower Moon,2023,2.0
+The Master,2012,2.0
+Three Colours: White,1994,2.5
+Rush,2013,2.0
+The Maltese Falcon,1941,2.0
+The Platform,2019,2.5
+Black Widow,2021,2.0
+The Suicide Squad,2021,4.0
+My Left Foot: The Story of Christy Brown,1989,2.0
+The Dead,1987,2.5
+Batman: Mask of the Phantasm,1993,2.5
+Sixteen Candles,1984,2.5
+Saving Mr. Banks,2013,2.5
+Traffic,2000,2.0
+From Up on Poppy Hill,2011,2.5
+Guy and Madeline on a Park Bench,2009,2.0
+The Third Man,1949,2.0
+Reservoir Dogs,1992,4.5
+Django Unchained,2012,4.0
+Inglourious Basterds,2009,4.0
+Once Upon a Time... in Hollywood,2019,4.0
+Kill Bill: Vol. 1,2003,2.5
+Kill Bill: Vol. 2,2004,2.5
+Black Hawk Down,2001,2.5
+Akira,1988,2.0
+Fantasia,1940,2.5
+Castle in the Sky,1986,2.5
+Solo: A Star Wars Story,2018,2.5
+Tigertail,2020,2.5
+Gone with the Wind,1939,3.0
+Pan's Labyrinth,2006,2.5
+Shang-Chi and the Legend of the Ten Rings,2021,2.5
+The Conversation,1974,3.0
+Heat,1995,3.0
+Ben-Hur,1959,2.5
+Me and Earl and the Dying Girl,2015,3.0
+Erin Brockovich,2000,4.0
+The Breakfast Club,1985,4.0
+The Tale of The Princess Kaguya,2013,2.5
+Kes,1969,3.0
+Portrait of a Lady on Fire,2019,2.5
+2001: A Space Odyssey,1968,2.5
+The Dawn Wall,2017,4.5
+Spider-Man: No Way Home,2021,4.5
+Kung Fu Panda 2,2011,3.5
+WHAM!,2023,4.5
+Little Miss Sunshine,2006,4.5
+The Shape of Water,2017,3.5
+"The Good, the Bad and the Ugly",1966,3.5
+Se7en,1995,4.5
+Taste of Cherry,1997,2.0
+The Silence of the Lambs,1991,4.5
+Rush Hour,1998,3.0
+Ferris Bueller's Day Off,1986,3.5
+Slumdog Millionaire,2008,3.5
+Princess Mononoke,1997,3.5
+Lost in Translation,2003,3.5
+"tick, tick... BOOM!",2021,3.5
+Fargo,1996,3.5
+Stand by Me,1986,3.5
+Hunt for the Wilderpeople,2016,3.0
+Uncut Gems,2019,4.0
+The Bridge on the River Kwai,1957,3.0
+Blade Runner,1982,4.0
+Everything Everywhere All at Once,2022,4.0
+Gone Girl,2014,4.0
+The Girl with the Dragon Tattoo,2011,4.0
+Fight Club,1999,3.5
+The Tree of Life,2011,4.0
+12 Years a Slave,2013,4.0
+Luca,2021,3.5
+They Shall Not Grow Old,2018,3.5
+Tangled,2010,3.5
+Raging Bull,1980,2.5
+Taxi Driver,1976,4.0
+The Departed,2006,4.5
+The Wolf of Wall Street,2013,4.0
+Silence,2016,3.5
+Shutter Island,2010,2.5
+The Irishman,2019,3.0
+The Aviator,2004,3.5
+Green Book,2018,3.5
+American Manhunt: The Boston Marathon Bombing,2023,4.5
+Brief Encounter,1945,4.5
+Anyone But You,2023,1.5
+Rocky,1976,3.0
+Catch Me If You Can,2002,4.0
+Saving Private Ryan,1998,4.5
+Raiders of the Lost Ark,1981,4.0
+Jaws,1975,4.5
+Soul,2020,4.0
+Good Will Hunting,1997,4.5
+Come and See,1985,3.0
+Call Me by Your Name,2017,3.5
+Shame,2011,4.0
+The Secret Life of Walter Mitty,2013,3.5
+Into the Wild,2007,3.0
+Goldfinger,1964,2.5
+Dr. No,1962,2.5
+Paddington,2014,3.5
+Tenet,2020,4.0
+The French Connection,1971,2.5
+American Graffiti,1973,4.0
+No Time to Die,2021,3.5
+A Star Is Born,2018,4.0
+Spectre,2015,2.5
+Casablanca,1942,4.0
+It's a Wonderful Life,1946,4.0
+Skyfall,2012,4.0
+Casino Royale,2006,4.0
+Hunger,2008,3.5
+Once,2007,3.5
+The Thin Red Line,1998,4.0
+Roma,2018,4.0
+Finding Nemo,2003,4.0
+Phantom Thread,2017,4.0
+Pain and Glory,2019,4.0
+Airplane!,1980,3.5
+Shoplifters,2018,3.5
+Her,2013,4.0
+Mad Max: Fury Road,2015,4.5
+The Godfather,1972,5.0
+Paddington 2,2017,3.5
+Harry Potter and the Order of the Phoenix,2007,3.0
+Harry Potter and the Goblet of Fire,2005,4.5
+Harry Potter and the Deathly Hallows: Part 1,2010,4.5
+Top Gun: Maverick,2022,4.5
+The Banshees of Inisherin,2022,4.5
+Black Panther: Wakanda Forever,2022,3.0
+Avatar: The Way of Water,2022,3.5
+Babylon,2022,2.5
+The Fabelmans,2022,4.0
+Aftersun,2022,3.5
+The Whale,2022,3.5
+Scream VI,2023,2.0
+John Wick: Chapter 4,2023,2.5
+The Super Mario Bros. Movie,2023,2.5
+Guardians of the Galaxy Vol. 3,2023,3.0
+"Are You There God? It's Me, Margaret.",2023,3.0
+Barbie,2023,3.5
+Oppenheimer,2023,4.5
+The Boy and the Heron,2023,2.0
+The Banker,2020,2.5
+Belfast,2021,4.0
+Fyre,2019,4.0
+White Hot: The Rise & Fall of Abercrombie & Fitch,2022,2.5
+Trainwreck: Woodstock '99,2022,4.5
+Four Weddings and a Funeral,1994,2.5
+When Harry Met Sally...,1989,4.0
+"Crazy, Stupid, Love.",2011,4.5
+The Hangover,2009,3.5
+Blue Valentine,2010,3.5
+Submarine,2010,3.5
+Shaun the Sheep Movie,2015,3.5
+Shrek 2,2004,3.0
+Shrek,2001,3.5
+Kung Fu Panda 3,2016,2.5
+The Spectacular Now,2013,3.5
+Before Midnight,2013,4.5
+Before Sunrise,1995,5.0
+The Karate Kid,1984,3.5
+Glass Onion,2022,2.5
+The Edge of Seventeen,2016,4.0
+TÁR,2022,2.0
+Puss in Boots: The Last Wish,2022,3.5
+About Time,2013,3.5
+Boiling Point,2021,4.0
+Another Round,2020,4.0
+The Social Dilemma,2020,3.5
+The Bad Guys,2022,3.5
+Troll Hunter,2010,3.5
+All Quiet on the Western Front,2022,4.5
+Insidious,2010,2.0
+The Shining,1980,3.5
+Jumanji: Welcome to the Jungle,2017,2.5
+Kipchoge: The Last Milestone,2021,3.5
+The Intouchables,2011,4.5
+No Country for Old Men,2007,4.5
+The Man from U.N.C.L.E.,2015,3.5
+The Gentlemen,2019,2.5
+21 Jump Street,2012,3.0
+All the President's Men,1976,4.0
+Pulp Fiction,1994,4.0
+Capote,2005,2.5
+Steve Jobs,2015,3.5
+Once Upon a Time in the West,1968,3.0
+Wind River,2017,3.5
+Chinatown,1974,5.0
+The Iron Giant,1999,3.5
+True Grit,2010,3.5
+Don't Look Up,2021,4.0
+Klaus,2019,3.5
+Yesterday,2019,3.5
+Back to the Future,1985,4.0
+Cruella,2021,3.0
+Hancock,2008,2.5
+The Blind Side,2009,3.5
+"McFarland, USA",2015,3.5
+School of Rock,2003,3.5
+Indiana Jones and the Last Crusade,1989,3.0
+Indiana Jones and the Temple of Doom,1984,3.0
+Tarzan,1999,3.0
+Ford v Ferrari,2019,4.0
+"I, Tonya",2017,4.5
+The Place Beyond the Pines,2012,4.0
+Sleeping Beauty,1959,3.5
+The Blues Brothers,1980,4.0
+The Godfather Part II,1974,3.5
+The Godfather Part III,1990,3.0
+Butch Cassidy and the Sundance Kid,1969,2.5
+Unbroken,2014,2.5
+Shaun of the Dead,2004,4.0
+Close Encounters of the Third Kind,1977,3.0
+Memento,2000,4.5
+Schindler's List,1993,4.5
+The Peanut Butter Falcon,2019,3.5
+The Nice Guys,2016,4.0
+The Invisible Man,2020,3.5
+Priscilla,2023,3.5
+Free Solo,2018,4.0
+Thunder Road,2018,2.5
+Logan Lucky,2017,2.5
+Jodorowsky's Dune,2013,4.0
+Chef,2014,3.5
+Trainspotting,1996,4.5
+Home,2015,2.0
+The Umbrellas of Cherbourg,1964,3.0
+Inside Out 2,2024,4.0
+Spider-Man,2002,4.0
+Spider-Man 2,2004,4.0
+10 Things I Hate About You,1999,3.0
+The Notebook,2004,3.0
+Before Sunset,2004,5.0
+Joker: Folie à Deux,2024,2.0
+Citizen Kane,1941,3.5
+Apocalypse Now,1979,4.5
+Honeyland,2019,2.0
+American Beauty,1999,4.0
+The Wild Robot,2024,3.0
+In the Mood for Love,2000,4.5
+Rain Man,1988,3.5
+Lone Survivor,2013,4.0
+Surf's Up,2007,2.5
+The Exorcist,1973,4.0
+The Substance,2024,4.0
+Requiem for a Dream,2000,1.5
+Dear Zachary: A Letter to a Son About His Father,2008,4.5
+Hercules,1997,3.5
+Gladiator II,2024,3.5
+T2 Trainspotting,2017,3.0
+Cha Cha Real Smooth,2022,4.0
+City of God,2002,4.0
+Dead Poets Society,1989,4.0
+Challengers,2024,5.0
+The SpongeBob SquarePants Movie,2004,3.5
+Ice Age,2002,4.0
+20th Century Women,2016,2.0
+We Live in Time,2024,3.5
+Ikiru,1952,2.5
+The Incredibles,2004,4.0
+Hamlet,1948,4.0
+My Neighbor Totoro,1988,4.0
+Interstellar,2014,4.0
+Incendies,2010,4.0
+Encanto,2021,3.5
+Blackfish,2013,3.5
+Platoon,1986,3.5
+Manchester by the Sea,2016,3.5
+The Theory of Everything,2014,3.5
+Ad Astra,2019,3.5
+Harry Potter 20th Anniversary: Return to Hogwarts,2022,3.0
+Sense and Sensibility,1995,3.0
+Captain Fantastic,2016,3.0
+The Green Mile,1999,3.0
+Mary Poppins Returns,2018,2.5
+Inside I'm Dancing,2004,3.0
+"Planes, Trains and Automobiles",1987,3.0
+The World's End,2013,3.0
+If Beale Street Could Talk,2018,3.0
+The Good Dinosaur,2015,3.0
+Onward,2020,3.0
+Three Colours: Red,1994,3.0
+Dallas Buyers Club,2013,3.0
+Lady and the Tramp,1955,3.0
+Only Yesterday,1991,3.0
+Good Time,2017,3.0
+Donnie Darko,2001,3.0
+Fruitvale Station,2013,3.0
+Pocahontas,1995,3.0
+Vice,2018,3.0
+Doctor Zhivago,1965,3.0
+Bumblebee,2018,3.0
+Following,1998,3.0
+Rushmore,1998,3.0
+The Hunger Games,2012,3.0
+Roman Holiday,1953,2.5
+Amélie,2001,2.5
+Notting Hill,1999,2.5
+You Were Never Really Here,2017,2.5
+Atonement,2007,2.5
+Wonder Woman,2017,2.5
+The Martian,2015,2.5
+Les Misérables,2012,2.5
+Ant-Man,2015,2.5
+The Chronicles of Narnia: Prince Caspian,2008,2.5
+Ponyo,2008,2.5
+One Hundred and One Dalmatians,1961,2.5
+The Lego Batman Movie,2017,2.5
+Brick,2005,2.5
+West Side Story,1961,2.5
+Vertigo,1958,2.5
+La Haine,1995,3.0
+Black Adam,2022,2.0
+Doctor Strange in the Multiverse of Madness,2022,2.0
+Napoleon,2023,2.0
+Asteroid City,2023,2.0
+Fantastic Beasts: The Crimes of Grindelwald,2018,2.0
+Home Alone 2: Lost in New York,1992,3.0
+Frozen II,2019,2.0
+Anora,2024,2.5
+The Deer Hunter,1978,2.5
+Margin Call,2011,2.5
+Anastasia,1997,2.5
+Captain Marvel,2019,1.5
+Thor: Love and Thunder,2022,1.5
+Fantastic Beasts: The Secrets of Dumbledore,2022,1.5
+Mank,2020,1.5
+The Interview,2014,1.5
+Eragon,2006,1.0
+Look Away,2018,1.0
+The Souvenir,2019,2.0
+Ant-Man and the Wasp,2018,2.5
+Iron Man 3,2013,2.5
+The Fugitive,1993,2.5
+Man of Steel,2013,2.5
+Pinocchio,1940,2.5
+Snow White and the Seven Dwarfs,1937,2.5
+The Wizard of Oz,1939,2.5
+Brave,2012,2.5
+The Ballad of Buster Scruggs,2018,2.5
+Frozen,2013,2.5
+The Florida Project,2017,2.5
+Finding Dory,2016,2.5
+Three Colours: Blue,1993,2.5
+Foxcatcher,2014,2.5
+Leave No Trace,2018,2.5
+Eternal Sunshine of the Spotless Mind,2004,2.5
+Song of the Sea,2014,2.5
+Battle of the Sexes,2017,2.5
+The Sting,1973,2.5
+In Bruges,2008,2.5
+There Will Be Blood,2007,2.5
+Furiosa: A Mad Max Saga,2024,2.5
+King Richard,2021,2.5
+Raya and the Last Dragon,2021,2.5
+Turning Red,2022,2.5
+At Eternity's Gate,2018,2.5
+Argo,2012,2.5
+Mary Poppins,1964,2.5
+Brokeback Mountain,2005,2.5
+Chungking Express,1994,2.5
+Whisper of the Heart,1995,3.0
+Dumbo,1941,2.5
+The Matrix,1999,2.5
+The Pianist,2002,2.5
+The Brutalist,2024,4.5
+A Complete Unknown,2024,3.5
+A Real Pain,2024,4.5
+Rebecca,1940,3.5
+Gravity,2013,3.5
+Superbad,2007,4.0
+Seven Samurai,1954,2.5
+The Graduate,1967,3.0
+Andrei Rublev,1966,2.5
+Ivan's Childhood,1962,2.5
+Mirror,1975,2.5
+Bullet Train,2022,4.0
+Cinema Paradiso,1988,3.5
+La Dolce Vita,1960,2.0
+I'm Still Here,2024,4.0
+Mulholland Drive,2001,3.5
+A Minecraft Movie,2025,3.0
+Sinners,2025,2.5
+Warfare,2025,3.0
+An Affair to Remember,1957,2.0
+Moonlight,2016,4.5
+Mission: Impossible – The Final Reckoning,2025,2.0
+Mission: Impossible – Dead Reckoning,2023,2.5
+Sing Street,2016,3.5
+The Fantastic 4: First Steps,2025,2.5
+Superman,2025,3.5
+Materialists,2025,4.0
+Frances Ha,2012,2.0
+Dazed and Confused,1993,2.5
+Marriage Story,2019,5.0
+The Squid and the Whale,2005,3.0
+The Meyerowitz Stories (New and Selected),2017,2.5
+Y Tu Mamá También,2001,3.5
+The Half of It,2020,2.5
+"Paris, Texas",1984,2.5
+Mamma Mia!,2008,3.0
+The Naked Gun,2025,3.0
+The Darjeeling Limited,2007,3.5
+One Battle After Another,2025,3.0
+Beautiful Boy,2018,3.5
+The Smashing Machine,2025,3.0
+Scent of a Woman,1992,2.5
+Perfect Blue,1997,4.0
+Cake,2018,4.0
+Yi Yi,2000,4.5
+My Dinner with Andre,1981,3.0
+Marty Supreme,2025,4.0
