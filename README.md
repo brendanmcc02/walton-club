@@ -1,0 +1,1 @@
+All teaching material should be stored on the **shared teams channel**, not in this repo! This is done to avoid duplication and make things much, much cleaner.
